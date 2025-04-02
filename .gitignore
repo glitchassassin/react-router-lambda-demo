@@ -4,3 +4,8 @@
 # React Router
 /.react-router/
 /build/
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+cdk/*.js
